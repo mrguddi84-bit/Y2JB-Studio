@@ -4,10 +4,10 @@
 
 # Y2JB Studio
 
-### Ein Arbeitsplatz. Drei Manager. Dein PS5-Homebrew-Workflow.
+### Ein Arbeitsplatz. Drei Manager. Dein Y2JB-Workflow.
 
 **Prüfen · Herunterladen · Installieren · Erstellen · Übertragen**  
-Ein buttongeführter PS5-Homebrew-Workflow für Windows.
+Vereinfachte FTP- und Y2JB-Autoloader-Installation sowie ein Theme Manager für Icons, Hintergründe und App-Namen — in einem Y2JB-Workflow für Windows.
 
 **Sprache:** [English](README.md) · **Deutsch** · [Español](README.es.md) · [Français](README.fr.md) · [Português](README.pt.md)
 
@@ -19,14 +19,14 @@ Ein buttongeführter PS5-Homebrew-Workflow für Windows.
 
 ## ✨ Y2JB Studio kennenlernen
 
-Y2JB Studio vereint PS5-Verbindungsprüfungen, FTP-Einrichtung, Y2JB-Verwaltung und Theme-Erstellung in einer Windows-App. Die Manager führen mit klaren Statusanzeigen durch unterstützte Downloads, Übertragungen und Einrichtungsschritte.
+Y2JB Studio vereinfacht den Y2JB-Workflow in einer Windows-App: mit geführter FTP- und Y2JB-Autoloader-Installation sowie einem Theme Manager für PS5-Icons, Hintergründe und App-Namen.
 
 | FTP Manager | Y2JB Manager | Theme Manager |
 | --- | --- | --- |
 | FTP prüfen, unterstützte Payloads herunterladen und Zugang einrichten. | Y2JB-Voraussetzungen prüfen, Dateien laden und Übertragung durchführen. | Themes aus PNG-Dateien erstellen, bauen und übertragen sowie unterstützte App-Namen bearbeiten. |
 | **Erkennen · Laden · Einrichten · Verbinden** | **Prüfen · Laden · Übertragen · Aktualisieren** | **Erstellen · Bauen · Hochladen · Umbenennen** |
 
-> Y2JB Studio ist ein unabhängiges Homebrew-Projekt der Community und steht in keiner Verbindung zu Sony Interactive Entertainment.
+> Y2JB Studio ist ein unabhängiges Tool für den Y2JB-Workflow und die Theme-Erstellung und steht in keiner Verbindung zu Sony Interactive Entertainment.
 
 ## 🚀 Funktionen
 
@@ -55,7 +55,7 @@ ELF Loader und FTP-Server sind getrennte Dienste. Für die Ersteinrichtung kann 
 - Konsolenregion erkennen und passende Y2JB-Dateien auswählen.
 - Benötigte Dateien herunterladen und SHA-256-Prüfsummen kontrollieren.
 - Geführte FTP-Übertragungen an das vorgesehene PS5-Ziel ausführen.
-- Den YouTube-/Y2JB-Installationsstatus prüfen und unterstützte Einrichtung oder Updates durchführen.
+- Den YouTube-/Y2JB-Status prüfen und die vereinfachte Installation oder Aktualisierung des itsPLK Y2JB Autoloaders durchführen.
 - Die YouTube-PKG-Installation über **Prospero Manager** wurde vom Projektinhaber erfolgreich getestet.
 - Y2JB-App-Namen mit dem integrierten Editor und dessen Backup-Schutz bearbeiten.
 
@@ -119,4 +119,5 @@ Das öffentliche Repository enthält Dokumentation und Banner, keinen Anwendungs
 - [Fehler melden oder Funktionen vorschlagen](https://github.com/mrguddi84-bit/Y2JB-Studio/issues)
 
 Füge bei Fehlerberichten Studio- und Windows-Version, betroffenen Manager und Reproduktionsschritte hinzu. Veröffentliche keine Konsolen-Zugangsdaten oder privaten Netzwerkdetails.
+
 

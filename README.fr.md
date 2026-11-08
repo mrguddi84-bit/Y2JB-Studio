@@ -4,10 +4,10 @@
 
 # Y2JB Studio
 
-### Un espace de travail. Trois gestionnaires. Votre flux homebrew PS5.
+### Un espace de travail. Trois gestionnaires. Votre flux Y2JB.
 
 **Vérifier · Télécharger · Installer · Créer · Transférer**  
-Un flux homebrew PS5 guidé par boutons sous Windows.
+Un flux Y2JB simplifié sous Windows : installation guidée de FTP et de Y2JB Autoloader, avec Theme Manager pour les icônes, arrière-plans et noms d’applications.
 
 **Langue :** [English](README.md) · [Deutsch](README.de.md) · [Español](README.es.md) · **Français** · [Português](README.pt.md)
 
@@ -19,14 +19,14 @@ Un flux homebrew PS5 guidé par boutons sous Windows.
 
 ## ✨ Découvrez Y2JB Studio
 
-Y2JB Studio réunit les vérifications de connexion PS5, la configuration FTP, la gestion Y2JB et la création de thèmes dans une application Windows. Ses gestionnaires guident les téléchargements, transferts et étapes de configuration pris en charge avec des indicateurs d’état clairs.
+Y2JB Studio simplifie la configuration Y2JB dans une application Windows : installation guidée de FTP et de Y2JB Autoloader, avec Theme Manager pour les icônes PS5, les arrière-plans et les noms d’applications.
 
 | FTP Manager | Y2JB Manager | Theme Manager |
 | --- | --- | --- |
 | Détecter FTP, télécharger des payloads pris en charge et configurer l’accès. | Vérifier les prérequis Y2JB, récupérer les fichiers nécessaires et guider leur transfert. | Créer des thèmes à partir de PNG, les générer et les transférer, et modifier les noms pris en charge. |
 | **Détecter · Télécharger · Configurer · Connecter** | **Vérifier · Télécharger · Transférer · Mettre à jour** | **Créer · Générer · Charger · Renommer** |
 
-> Y2JB Studio est un outil homebrew indépendant de la communauté. Il n’est ni affilié à Sony Interactive Entertainment, ni approuvé par cette société.
+> Y2JB Studio est un outil indépendant pour le flux Y2JB et la création de thèmes. Il n’est ni affilié à Sony Interactive Entertainment, ni approuvé par cette société.
 
 ## 🚀 Fonctions
 
@@ -55,7 +55,7 @@ L’ELF Loader et un serveur FTP sont deux services différents. Pour une premi�
 - Détecter la région de la console et sélectionner les fichiers Y2JB correspondants.
 - Télécharger les fichiers requis et vérifier leurs sommes SHA-256.
 - Guider les transferts FTP protégés vers la destination PS5 prévue.
-- Vérifier l’état de l’installation YouTube/Y2JB et guider la configuration ou les mises à jour prises en charge.
+- Vérifier l’état YouTube/Y2JB et guider l’installation ou la mise à jour simplifiée de l’Y2JB Autoloader d’itsPLK.
 - Le propriétaire du projet a confirmé les tests d’installation du PKG YouTube avec **Prospero Manager**.
 - Modifier le nom de l’application Y2JB à l’aide de l’éditeur intégré et de ses sauvegardes.
 
@@ -119,4 +119,5 @@ Le dépôt public contient la documentation et la bannière, pas le code source 
 - [Signaler un problème ou proposer une fonction](https://github.com/mrguddi84-bit/Y2JB-Studio/issues)
 
 Pour signaler un problème, indiquez les versions de Studio et Windows, le gestionnaire concerné et les étapes de reproduction. Ne publiez pas vos identifiants de console ni des détails réseau privés.
+
 

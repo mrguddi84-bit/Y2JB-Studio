@@ -4,10 +4,10 @@
 
 # Y2JB Studio
 
-### One workspace. Three managers. Your PS5 homebrew workflow.
+### One workspace. Three managers. Your Y2JB workflow.
 
 **Check · Download · Install · Build · Upload**  
-A button-guided PS5 homebrew workflow for Windows.
+A streamlined Y2JB workflow for Windows: simplified FTP and Y2JB Autoloader installation, plus a Theme Manager for icons, backgrounds and app names.
 
 [![Version](https://img.shields.io/badge/version-1.0-00cfe8?style=for-the-badge)](https://github.com/mrguddi84-bit/Y2JB-Studio/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows-18283c?style=for-the-badge)](https://github.com/mrguddi84-bit/Y2JB-Studio)
@@ -23,14 +23,14 @@ A button-guided PS5 homebrew workflow for Windows.
 
 ## ✨ Meet Y2JB Studio
 
-Y2JB Studio brings PS5 connection checks, FTP setup, Y2JB management and theme creation into one Windows desktop app. It guides the workflow through clear status checks and manager workspaces, while handling supported downloads, transfers and setup steps.
+Y2JB Studio simplifies the Y2JB setup workflow in one Windows app: guided FTP and Y2JB Autoloader installation, plus a Theme Manager for PS5 icons, backgrounds and app names.
 
 | FTP Manager | Y2JB Manager | Theme Manager |
 | --- | --- | --- |
 | Detect FTP availability, download supported payloads and set up access. | Check Y2JB prerequisites, fetch the required files and guide their transfer. | Create themes from PNG artwork, build and upload them, and edit supported app names. |
 | **Detect · Download · Install · Connect** | **Check · Download · Transfer · Update** | **Create · Build · Upload · Rename** |
 
-> Y2JB Studio is an independent community homebrew utility. It is not affiliated with, endorsed by or sponsored by Sony Interactive Entertainment.
+> Y2JB Studio is an independent utility for the Y2JB workflow and theme creation. It is not affiliated with, endorsed by or sponsored by Sony Interactive Entertainment.
 
 ## 🚀 Features
 
@@ -63,7 +63,7 @@ The ELF Loader and an FTP server are separate services. For first-time FTP setup
 - Detect the console region and select matching Y2JB files.
 - Download required files and check their SHA-256 hashes.
 - Guide guarded FTP transfers to the intended PS5 locations.
-- Check the relevant YouTube/Y2JB installation state and guide supported setup or updates.
+- Check the YouTube/Y2JB setup and guide the simplified installation or update of the itsPLK Y2JB Autoloader.
 - The YouTube PKG workflow through **Prospero Manager** was successfully tested by the project owner.
 - Edit the Y2JB application name with the integrated editor and backup safeguards.
 
@@ -149,10 +149,11 @@ When reporting a bug, include the Studio version, Windows version, affected mana
 
 <div align="center">
 
-**Built for the PS5 homebrew community**  
+**Built for the Y2JB community**  
 Y2JB Studio v1.0 · Developed by MrGee with AI assistance
 
 [Releases](https://github.com/mrguddi84-bit/Y2JB-Studio/releases) · [Issues](https://github.com/mrguddi84-bit/Y2JB-Studio/issues) · [Back to top](#y2jb-studio)
 
 </div>
+
 
