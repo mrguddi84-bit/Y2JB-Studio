@@ -44,7 +44,7 @@ Diagnosen sind schreibgeschützt und ändern PS5-Dateien nicht absichtlich.
 ### 🌐 FTP Manager — geführte Einrichtung externer Payloads
 
 - Prüfen, ob ein FTP-Dienst auf der PS5 erreichbar ist.
-- Unterstützte Payloads wie [**ftpsrv**](https://github.com/ps5-payload-dev/ftpsrv) oder [**zftpd**](https://github.com/seregonwar/zftpd#-best-setup) bei Bedarf aus den jeweiligen Upstream-Projekten herunterladen. **Keine der beiden Payloads ist in Y2JB Studio enthalten.**
+- Unterstützte Payloads wie [**ftpsrv**](https://github.com/ps5-payload-dev/ftpsrv) oder [**zftpd**](https://github.com/seregonwar/zftpd) bei Bedarf aus den jeweiligen Upstream-Projekten herunterladen. **Keine der beiden Payloads ist in Y2JB Studio enthalten.**
 - Durch unterstützte Übertragungs- und Einrichtungsschritte führen, damit die Payload im PS5 Payload Manager verfügbar gemacht werden kann.
 - Nach dem Start eines FTP-Dienstes Dateien übertragen.
 
@@ -103,7 +103,7 @@ Entwickelt von **MrGee mit Unterstützung durch KI**.
 | --- | --- |
 | [itsPLK](https://github.com/itsPLK/ps5-y2jb-autoloader) | Y2JB Autoloader für den Y2JB-Workflow |
 | [ftpsrv-Mitwirkende](https://github.com/ps5-payload-dev/ftpsrv) | Externe PS5-FTP-Payload; wird bei Bedarf geladen, nicht mitgeliefert |
-| [Seregon und zftpd-Mitwirkende](https://github.com/seregonwar/zftpd#-best-setup) | Externe PS5-FTP-Payload; wird bei Bedarf geladen, nicht mitgeliefert |
+| [Seregon und zftpd-Mitwirkende](https://github.com/seregonwar/zftpd) | Externe PS5-FTP-Payload; wird bei Bedarf geladen, nicht mitgeliefert |
 | TheWizWikii / PS5-Stuff | YouTube-PKG-Quellen, auf die die App verweist |
 | Qt for Python, Python, Pillow, ispc_texcomp, certifi, Tcl/Tk und PyInstaller | Frameworks, Laufzeit und Verpackung |
 
@@ -119,3 +119,4 @@ Das öffentliche Repository enthält Dokumentation und Banner, keinen Anwendungs
 - [Fehler melden oder Funktionen vorschlagen](https://github.com/mrguddi84-bit/Y2JB-Studio/issues)
 
 Füge bei Fehlerberichten Studio- und Windows-Version, betroffenen Manager und Reproduktionsschritte hinzu. Veröffentliche keine Konsolen-Zugangsdaten oder privaten Netzwerkdetails.
+

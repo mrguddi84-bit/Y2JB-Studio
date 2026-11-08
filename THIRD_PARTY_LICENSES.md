@@ -12,9 +12,10 @@ Y2JB Studio includes or uses the third-party components listed below. Each compo
 | certifi | 2026.10.23 CA certificate bundle | [MPL 2.0](https://github.com/certifi/python-certifi/blob/master/LICENSE) |
 | Tcl/Tk | 8.6 GUI toolkit runtime components | [Tcl/Tk license](https://www.tcl.tk/software/tcltk/license.html) |
 | PyInstaller | 6.22.3 executable packaging and bootloader | [GPL with bootloader exception](https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt) |
-| zftpd | External PS5 FTP payload, downloaded when needed; not bundled | [Seregon's zftpd setup and project](https://github.com/seregonwar/zftpd#-best-setup) |
+| zftpd | External PS5 FTP payload, downloaded when needed; not bundled | [Seregon's zftpd setup and project](https://github.com/seregonwar/zftpd) |
 | Y2JB Autoloader | Used by the Y2JB workflow | [itsPLK project](https://github.com/itsPLK/ps5-y2jb-autoloader) |
 
 The [ftpsrv](https://github.com/ps5-payload-dev/ftpsrv) payload is also available separately and is not bundled with Y2JB Studio. YouTube PKG source links are provided by TheWizWikii / PS5-Stuff. These remain third-party materials under their respective terms.
 
 Y2JB Studio is independently developed and is not affiliated with or endorsed by Sony Interactive Entertainment.
+

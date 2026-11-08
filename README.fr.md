@@ -44,7 +44,7 @@ Les diagnostics sont en lecture seule et ne modifient pas intentionnellement les
 ### 🌐 FTP Manager — configuration guidée de payloads externes
 
 - Vérifier si un service FTP est accessible sur la PS5.
-- Télécharger au besoin des payloads pris en charge tels que [**ftpsrv**](https://github.com/ps5-payload-dev/ftpsrv) ou [**zftpd**](https://github.com/seregonwar/zftpd#-best-setup) depuis leurs projets d’origine. **Aucun de ces payloads n’est inclus dans Y2JB Studio.**
+- Télécharger au besoin des payloads pris en charge tels que [**ftpsrv**](https://github.com/ps5-payload-dev/ftpsrv) ou [**zftpd**](https://github.com/seregonwar/zftpd) depuis leurs projets d’origine. **Aucun de ces payloads n’est inclus dans Y2JB Studio.**
 - Guider les étapes de transfert et de configuration prises en charge pour rendre un payload disponible dans Payload Manager sur PS5.
 - Transférer des fichiers une fois qu’un serveur FTP fonctionne.
 
@@ -103,7 +103,7 @@ Développé par **MrGee avec l’aide de l’IA**.
 | --- | --- |
 | [itsPLK](https://github.com/itsPLK/ps5-y2jb-autoloader) | Y2JB Autoloader utilisé par le flux Y2JB |
 | [Contributeurs ftpsrv](https://github.com/ps5-payload-dev/ftpsrv) | Payload FTP PS5 externe ; téléchargé si nécessaire, non inclus |
-| [Seregon et contributeurs zftpd](https://github.com/seregonwar/zftpd#-best-setup) | Payload FTP PS5 externe ; téléchargé si nécessaire, non inclus |
+| [Seregon et contributeurs zftpd](https://github.com/seregonwar/zftpd) | Payload FTP PS5 externe ; téléchargé si nécessaire, non inclus |
 | TheWizWikii / PS5-Stuff | Sources du PKG YouTube référencées par l’application |
 | Contributeurs de Qt for Python, Python, Pillow, ispc_texcomp, certifi, Tcl/Tk et PyInstaller | Frameworks, runtime et empaquetage |
 
@@ -119,3 +119,4 @@ Le dépôt public contient la documentation et la bannière, pas le code source 
 - [Signaler un problème ou proposer une fonction](https://github.com/mrguddi84-bit/Y2JB-Studio/issues)
 
 Pour signaler un problème, indiquez les versions de Studio et Windows, le gestionnaire concerné et les étapes de reproduction. Ne publiez pas vos identifiants de console ni des détails réseau privés.
+

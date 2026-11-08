@@ -44,7 +44,7 @@ Los diagnósticos son de solo lectura y no modifican intencionadamente los archi
 ### 🌐 FTP Manager — configuración guiada de payloads externos
 
 - Comprueba si se puede acceder a un servicio FTP de la PS5.
-- Descarga payloads compatibles como [**ftpsrv**](https://github.com/ps5-payload-dev/ftpsrv) o [**zftpd**](https://github.com/seregonwar/zftpd#-best-setup) desde sus proyectos originales cuando sea necesario. **Y2JB Studio no incluye ninguno de los dos payloads.**
+- Descarga payloads compatibles como [**ftpsrv**](https://github.com/ps5-payload-dev/ftpsrv) o [**zftpd**](https://github.com/seregonwar/zftpd) desde sus proyectos originales cuando sea necesario. **Y2JB Studio no incluye ninguno de los dos payloads.**
 - Guía los pasos compatibles de transferencia y configuración para dejar el payload disponible en Payload Manager de PS5.
 - Permite transferir archivos cuando ya hay un servicio FTP en ejecución.
 
@@ -103,7 +103,7 @@ Desarrollado por **MrGee con asistencia de IA**.
 | --- | --- |
 | [itsPLK](https://github.com/itsPLK/ps5-y2jb-autoloader) | Y2JB Autoloader para el flujo Y2JB |
 | [Colaboradores de ftpsrv](https://github.com/ps5-payload-dev/ftpsrv) | Payload FTP externo para PS5; se descarga cuando se necesita, no está incluido |
-| [Seregon y colaboradores de zftpd](https://github.com/seregonwar/zftpd#-best-setup) | Payload FTP externo para PS5; se descarga cuando se necesita, no está incluido |
+| [Seregon y colaboradores de zftpd](https://github.com/seregonwar/zftpd) | Payload FTP externo para PS5; se descarga cuando se necesita, no está incluido |
 | TheWizWikii / PS5-Stuff | Fuentes del PKG de YouTube enlazadas por la aplicación |
 | Colaboradores de Qt for Python, Python, Pillow, ispc_texcomp, certifi, Tcl/Tk y PyInstaller | Frameworks, runtime y empaquetado |
 
@@ -119,3 +119,4 @@ El repositorio público contiene documentación y el banner, no el código fuent
 - [Informar de un error o solicitar una función](https://github.com/mrguddi84-bit/Y2JB-Studio/issues)
 
 Al informar de un error, incluye las versiones de Studio y Windows, el gestor afectado y los pasos para reproducirlo. No publiques credenciales de la consola ni detalles privados de la red.
+
