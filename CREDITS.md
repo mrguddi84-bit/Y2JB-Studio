@@ -1,10 +1,10 @@
 # Credits
 
 - **MrGee** — Y2JB Studio project, application design, Y2JB branding and original application development.
-- **itsPLK** — Y2JB Autoloader project used by the Y2JB workflow.
-- **Seregon and zftpd contributors** — bundled PS5 FTP payload.
+- [**itsPLK**](https://github.com/itsPLK/ps5-y2jb-autoloader) — Y2JB Autoloader project used by the Y2JB workflow.
+- [**Seregon and zftpd contributors**](https://github.com/seregonwar/zftpd#-best-setup) — external PS5 FTP payload, downloaded when needed; not bundled with Y2JB Studio.
+- [**ps5-payload-dev/ftpsrv contributors**](https://github.com/ps5-payload-dev/ftpsrv) — optional external PS5 FTP payload, downloaded when needed; not bundled with Y2JB Studio.
 - **TheWizWikii / PS5-Stuff** — YouTube PKG source links used by the app.
-- **ps5-payload-dev/ftpsrv contributors** — optional external PS5 FTP payload: [ftpsrv on GitHub](https://github.com/ps5-payload-dev/ftpsrv).
 - **Qt for Python team** — PySide6 and Shiboken6.
 - **Python Software Foundation and Python contributors** — CPython runtime and standard library.
 - **Pillow contributors** — image processing.
